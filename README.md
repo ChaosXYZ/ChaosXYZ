@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7)
 <h1 align="center"> Hi there </h1>
-<h2>About Me</h2>
+<h3>About Me</h3>
 Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Developer. I have experience in a variety of languages and technologies and love to fiddle about and expand my skillset! Outside of technology, I love to solve puzzles and maths problems as well as play Chess.
 <br/><br/>
 
@@ -17,7 +17,7 @@ Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Develope
 
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
-<h2>Key Projects</h2>
+<h3>Key Projects</h3>
   <table  >
  <tr>
   
@@ -25,7 +25,7 @@ Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Develope
 
   <td width="65%" align = "left">
 
-   <h4>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h4>
+   <h5>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h5>
 
    
 <!-- BLOG-POST-LIST:START -->
@@ -47,8 +47,9 @@ sample
 
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
-<h2>Contact</h2>
-f
+<h3>Contact</h3>
+I will upload an email soon, but for now the easiest place to contact me is on Discord.
+- 📫 Discord: CHaos#9248
 
 <!--
 **ChaosXYZ/ChaosXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -48,8 +48,11 @@ sample
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
 <h3>Contact</h3>
-I will upload an email soon, but for now the easiest place to contact me is on Discord.
-- 📫 Discord: CHaos#9248
+I will upload an email soon, but for now the easiest place to contact me is on Discord. 
+<br/>
+<br/>
+<img src="https://github.com/ChaosXYZ/ChaosXYZ/blob/main/discord.png?raw=true" align="left" width=25 /> Chaos#9248
+
 
 <!--
 **ChaosXYZ/ChaosXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

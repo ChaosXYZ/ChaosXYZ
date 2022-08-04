@@ -18,8 +18,31 @@ Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Develope
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
 <h3>Key Projects</h3>
-<h6> Chexplanations </h6>
-words
+  <table  >
+ <tr>
+  
+
+
+  <td width="65%" align = "left">
+
+   <h3>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h3>
+
+   
+<!-- BLOG-POST-LIST:START -->
+sample
+<!-- BLOG-POST-LIST:END -->
+
+  </td>
+  
+  <td width="600px">
+   
+   
+<img src="https://github.com/ChaosXYZ/ChaosXYZ/blob/main/separator.png?raw=true" align="right"/> 
+   
+  </td>
+  
+ </tr>
+ </table>
 <br/>
 
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)

@@ -11,12 +11,12 @@ Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Develope
 - ⚡ Interested in Cyber Security 
 - 📈 Finance and Investing
 
-
+<br />
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
 <h3>Key Projects</h3>
 <h6> Chexplanations </h6>
-
+<br />
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
 <h3>Contact</h3>

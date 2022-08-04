@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7)
 ### Hi there 👋
 Will add to this later!
 <!--

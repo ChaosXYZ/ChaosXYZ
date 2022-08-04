@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7)
 <h1 align="center"> Hi there 👋</h1>
 <h3>About Me</h3>
-Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Developer. I have experience in a variety of languages and technologies and love to fiddle about and expand my skillset! Outside of technology, I love to solve puzzles and maths problems as well as play Chess.
+Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Developer. I have experience in a variety of languages and technologies and love to fiddle about with new technologies and expand my skillset! Outside of technology, I love to solve puzzles and maths problems as well as play Chess.
 <br/><br/>
 
 
@@ -18,7 +18,7 @@ Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Develope
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
 <h3>Key Projects</h3>
-  <table  >
+  <table align='center'>
  <tr>
   
 
@@ -29,7 +29,13 @@ Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Develope
 
    
 <!-- BLOG-POST-LIST:START -->
-sample
+Third year project, a chess app that aids in Chess training by generating explanations <br/>
+You can analyse games + positions and play through mistakes detected using stockfish. <br/>
+Spaced repetition helps store the mistakes that have been played into memory <br/>
+Explanation generation comments on various positional and tactical factors <br/>
+Text based on scoring and rulesets, both of which can be easily added (modular code) <br/>
+A link to my report which outlines the development, outcome and evaluation of the app is below <br/>
+https://github.com/ChaosXYZ/ChaosXYZ/blob/main/Report.pdf
 <!-- BLOG-POST-LIST:END -->
 
   </td>

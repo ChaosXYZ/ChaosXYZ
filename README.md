@@ -2,7 +2,8 @@
 <h1 align="center"> Hi there ♔ </h1>
 <h3>About Me</h3>
 Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Developer. I have experience in a variety of languages and technologies and love to fiddle about and expand my skillset! Outside of technology, I love to solve puzzles and maths problems as well as play Chess.
-<br/>
+<br/><br/>
+
 
 - 🏛️ Computer Science and Mathematics, First Class, from the University of Manchester
 - 🌱 I’m currently learning Spring Boot, JPA and Thymeleaf 

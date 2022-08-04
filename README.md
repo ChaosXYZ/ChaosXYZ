@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7)
-<h1 align="center"> Hi there </h1>
+<h1 align="center"> Hi there 👋</h1>
 <h3>About Me</h3>
 Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Developer. I have experience in a variety of languages and technologies and love to fiddle about and expand my skillset! Outside of technology, I love to solve puzzles and maths problems as well as play Chess.
 <br/><br/>
@@ -25,7 +25,7 @@ Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Develope
 
   <td width="65%" align = "left">
 
-   <h5>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h5>
+   <h4>  &nbsp; &nbsp; <b> ♔ </b> &nbsp;Chexplanations</h4>
 
    
 <!-- BLOG-POST-LIST:START -->

@@ -1,12 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7)
 <h1 align="center"> Hi there 👋 </h1>
-Will add to this later!
+<h3>t</h3>
+f
 
-<h3> About Me </h3>
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
-<h3> Key Projects </h3>
+
+<h3>t</h3>
+f
+
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
-<h4> Contact </h3>
+
+<h3>t</h3>
+f
+
 <!--
 **ChaosXYZ/ChaosXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

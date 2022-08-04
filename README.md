@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto)
 ### Hi there 👋
 Will add to this later!
 <!--

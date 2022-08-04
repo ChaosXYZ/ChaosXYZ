@@ -37,8 +37,9 @@ sample
   <td width="600px">
    
    
-<img src="https://github.com/ChaosXYZ/ChaosXYZ/blob/main/separator.png?raw=true" align="right"/> 
-   
+<img src="https://github.com/ChaosXYZ/ChaosXYZ/blob/main/chess.png?raw=true" align="right"/> 
+<img src="https://github.com/ChaosXYZ/ChaosXYZ/blob/main/chexplanations.png?raw=true" align="right"/> 
+
   </td>
   
  </tr>

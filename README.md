@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7)
-<h1 align="center"> Hi there ♔ </h1>
-<h3>About Me</h3>
+<h1 align="center"> Hi there </h1>
+<h2>About Me</h2>
 Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Developer. I have experience in a variety of languages and technologies and love to fiddle about and expand my skillset! Outside of technology, I love to solve puzzles and maths problems as well as play Chess.
 <br/><br/>
 
@@ -17,7 +17,7 @@ Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Develope
 
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
-<h3>Key Projects</h3>
+<h2>Key Projects</h2>
   <table  >
  <tr>
   
@@ -25,7 +25,7 @@ Hey, I'm Chaos! I am a recent graduate from UoM starting work as a Java Develope
 
   <td width="65%" align = "left">
 
-   <h3>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h3>
+   <h4>  &nbsp; &nbsp; <b> 📕 </b> &nbsp;Recent Articles and Blog Posts  </h4>
 
    
 <!-- BLOG-POST-LIST:START -->
@@ -47,7 +47,7 @@ sample
 
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
-<h3>Contact</h3>
+<h2>Contact</h2>
 f
 
 <!--
